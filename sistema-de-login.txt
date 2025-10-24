@@ -1,0 +1,4 @@
+Digite email:
+Digite Nome:
+Digite idade:
+Digite Sexo: 
